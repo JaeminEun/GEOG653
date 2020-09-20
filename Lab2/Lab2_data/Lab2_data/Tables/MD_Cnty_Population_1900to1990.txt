@@ -1,0 +1,97 @@
+3/27/95
+
+MARYLAND
+Population of Counties by Decennial Census: 1900 to 1990
+Compiled and edited by Richard L. Forstall
+                       Population Division
+                       US Bureau of the Census
+                       Washington, DC  20233
+
+Please see file, 1900-90.doc for explanatory notes and documentation.
+
+ FIPS      1990      1980      1970      1960
+00000 248709873 226545805 203211926 179323175 United States
+
+24000   4781468   4216975   3922399   3100689 Maryland
+24001     74946     80548     84044     84169 Allegany County
+24003    427239    370775    297539    206634 Anne Arundel County
+24005    692134    655615    621077    492428 Baltimore County
+24009     51372     34638     20682     15826 Calvert County
+24011     27035     23143     19781     19462 Caroline County
+24013    123372     96356     69006     52785 Carroll County
+24015     71347     60430     53291     48408 Cecil County
+24017    101154     72751     47678     32572 Charles County
+24019     30236     30623     29405     29666 Dorchester County
+24021    150208    114792     84927     71930 Frederick County
+24023     28138     26498     21476     20420 Garrett County
+24025    182132    145930    115378     76722 Harford County
+24027    187328    118572     61911     36152 Howard County
+24029     17842     16695     16146     15481 Kent County
+24031    757027    579053    522809    340928 Montgomery County
+24033    729268    665071    660567    357395 Prince George's County
+24035     33953     25508     18422     16569 Queen Anne's County
+24037     75974     59895     47388     38915 St. Mary's County
+24039     23440     19188     18924     19623 Somerset County
+24041     30549     25604     23682     21578 Talbot County
+24043    121393    113086    103829     91219 Washington County
+24045     74339     64540     54236     49050 Wicomico County
+24047     35028     30889     24442     23733 Worcester County
+24510    736014    786775    905759    939024 Baltimore city
+
+ FIPS      1950      1940      1930      1920
+00000 151325798 132164569 123202624 106021537 United States
+
+24000   2343001   1821244   1631526   1449661 Maryland
+24001     89556     86973     79098     69938 Allegany County
+24003    117392     68375     55167     43408 Anne Arundel County
+24005    270273    155825    124565     74817 Baltimore County
+24009     12100     10484      9528      9744 Calvert County
+24011     18234     17549     17387     18652 Caroline County
+24013     44907     39054     35978     34245 Carroll County
+24015     33356     26407     25827     23612 Cecil County
+24017     23415     17612     16166     17705 Charles County
+24019     27815     28006     26813     27895 Dorchester County
+24021     62287     57312     54440     52541 Frederick County
+24023     21259     21981     19908     19678 Garrett County
+24025     51782     35060     31603     29291 Harford County
+24027     23119     17175     16169     15826 Howard County
+24029     13677     13465     14242     15026 Kent County
+24031    164401     83912     49206     34921 Montgomery County
+24033    194182     89490     60095     43347 Prince George's County
+24035     14579     14476     14571     16001 Queen Anne's County
+24037     29111     14626     15189     16112 St. Mary's County
+24039     20745     20965     23382     24602 Somerset County
+24041     19428     18784     18583     18306 Talbot County
+24043     78886     68838     65882     59694 Washington County
+24045     39641     34530     31229     28165 Wicomico County
+24047     23148     21245     21624     22309 Worcester County
+24510    949708    859100    804874    733826 Baltimore city
+
+ FIPS      1910      1900
+00000  92228496  76212168                     United States
+
+24000   1295346   1188044                     Maryland
+24001     62411     53694                     Allegany County
+24003     39553     39620                     Anne Arundel County
+24005    122349     90755                     Baltimore County
+24009     10325     10223                     Calvert County
+24011     19216     16248                     Caroline County
+24013     33934     33860                     Carroll County
+24015     23759     24662                     Cecil County
+24017     16386     17662                     Charles County
+24019     28669     27962                     Dorchester County
+24021     52673     51920                     Frederick County
+24023     20105     17701                     Garrett County
+24025     27965     28269                     Harford County
+24027     16106     16715                     Howard County
+24029     16957     18786                     Kent County
+24031     32089     30451                     Montgomery County
+24033     36147     29898                     Prince George's County
+24035     16839     18364                     Queen Anne's County
+24037     17030     17182                     St. Mary's County
+24039     26455     25923                     Somerset County
+24041     19620     20342                     Talbot County
+24043     49617     45133                     Washington County
+24045     26815     22852                     Wicomico County
+24047     21841     20865                     Worcester County
+24510    558485    508957                     Baltimore city
