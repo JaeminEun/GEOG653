@@ -1,0 +1,11 @@
+<!DOCTYPE xyToPoints>
+<joins>
+ <join>
+  <QuelllayerID>FL_cnty_bnd_e89256d4_8c13_4734_bdf4_6afefc7427e6</QuelllayerID>
+  <QuelllayerName>FL_cnty_bnd</QuelllayerName>
+  <ZiellayerID>FL_cnty_bnd_pt_046cce7a_744e_4ce4_95ab_15b5f0e89e13</ZiellayerID>
+  <ZiellayerName>FL_cnty_bnd_pt</ZiellayerName>
+  <FeldX>Centroid_X</FeldX>
+  <FeldY>Centroid_Y</FeldY>
+ </join>
+</joins>
